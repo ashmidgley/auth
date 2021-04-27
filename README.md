@@ -32,8 +32,8 @@ import (
   "net/http"
   
   "github.com/ashmidgley/auth"
-  "github.com/geobuff/api/users"
-  "github.com/geobuff/api/scores"
+  "github.com/example/api/users"
+  "github.com/example/api/scores"
   "github.com/gorilla/mux"
 )
 
